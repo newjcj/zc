@@ -1,0 +1,11 @@
+/node_modules
+public/
+Homestead.yaml
+Homestead.json
+storate
+.idea
+.env
+.vscode
+*.zip
+*.rar
+*.tar.gz
